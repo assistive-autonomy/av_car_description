@@ -2,6 +2,9 @@
 Changelog for package av_car_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 3.1.0 (2026-02-24)
 ------------------
 * Add radar sensors frames to av_car_description (`#42 <https://github.com/ipab-rad/av_car_description/issues/42>`_)
