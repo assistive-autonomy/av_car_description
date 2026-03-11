@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>av_car_meshes</name>
-  <version>3.1.0</version>
+  <version>4.0.0</version>
   <description>
     The car_meshes package. Most models are custom,
         body_collision.stl was taken from dbw_mkz_description.
