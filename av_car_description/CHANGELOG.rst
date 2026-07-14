@@ -2,8 +2,13 @@
 Changelog for package av_car_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Jazzy migration
+
 4.0.0 (2026-03-11)
 ------------------
+* Zenoh migration
 
 3.1.0 (2026-02-24)
 ------------------
