@@ -2,8 +2,8 @@
 Changelog for package av_car_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+5.0.0 (2026-07-14)
+------------------
 * Jazzy migration
 
 4.0.0 (2026-03-11)
